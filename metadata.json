@@ -1,0 +1,7 @@
+{
+  "name": "BarberFlow Pro",
+  "description": "Uma plataforma profissional completa para barbearias, permitindo agendamentos automáticos, gestão de serviços e controle total para o barbeiro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
